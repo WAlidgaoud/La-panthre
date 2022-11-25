@@ -17,7 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+.text-center{
+    text-align: center;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -659,7 +661,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 48px;
 }
 
 .hero-bloc-text-sub {
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -767,11 +769,11 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #0c2474;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color:#f44336;
 }
 
 .tc-white {
@@ -779,7 +781,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f44336;
     color: #090909!important;
 }
 
