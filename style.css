@@ -508,8 +508,10 @@ button {
 }
 
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(3, 0, 0, 0.868);
     box-shadow: none;
+    width: 70%;
+    margin-bottom: 10PX;
 }
 
 .scrollToTop {
@@ -691,14 +693,17 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
-
+.marge{
+    margin-left: 40%;
+}
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
     text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
+    padding: 15px 58px 15px 58px;
     font-size: 16px;
     font-weight: 700;
+    margin-left: 14%;
 }
 
 .social {
